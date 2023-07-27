@@ -1,7 +1,5 @@
-# Excel_Portolfio
+# IBM_Excel_Basics_For_Data_Analysis
 
 Welcome to my Excel Portolfio!
 
-In this portfolio, i have included a variety of projects to showcase my advanced Excel skills. Some of the Excel features i have explored include Pivot tables and charts and creating dynamic reports using these, Conditional formatting, Task automation using macros and VBA, managing large datasets with functions (i.e. IF, SUM, INDEX, MATCH, VLOOKUP) and manipulating data.
-
-# Table of contents
+In this portfolio, i have included a variety of tasks and projects i had completed as part of the IBM Excel course. Some of the Excel features i have explored include cleaning data, creating Pivot tables and charts, Conditional formatting, managing large datasets with functions (i.e. IF, SUM, AVERAGE, MIN, MAX, COUNT, VLOOKUP) and manipulating data.
